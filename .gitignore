@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
